@@ -1,3 +1,7 @@
 go 1.18
 
-use ./pointers06
+use (
+	./maps09
+	./pointers06
+	./slices08
+)
