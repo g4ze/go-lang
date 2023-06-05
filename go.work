@@ -1,7 +1,11 @@
 go 1.18
 
 use (
+	./buildapi13
+	./func12
+	./loops11
 	./maps09
 	./pointers06
 	./slices08
+	./structs10
 )
