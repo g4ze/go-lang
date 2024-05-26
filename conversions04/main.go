@@ -20,6 +20,6 @@ func main() {
 	if error != nil {
 		fmt.Println(error)
 	} else {
-		fmt.Println("Your rate is: ", newuserate+1)
+		fmt.Println("Your rate+1 is: ", newuserate+1)
 	}
 }
